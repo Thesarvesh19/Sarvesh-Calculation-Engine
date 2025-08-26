@@ -7,6 +7,7 @@ This calculator is packed with unique features designed to make calculations a p
 🪄 Dynamic UI & Animations: Glow on Hover: The calculator body emits a subtle, futuristic glow when you move your cursor over it. 
 Color-Flash Feedback: Every button press is acknowledged with a satisfying, random color-flash and a ripple animation, providing delightful tactile feedback.  
 ⌨️ Full Keyboard Control: Perform calculations without ever touching your mouse. The calculator fully supports keyboard input for numbers, operators (`+`, `-`, `*`, `/`, `%`), `Enter` for equals, `Backspace` for delete, and `Escape` for clear. 
+
 🧮 Advanced Mathematical Functions: Go beyond basic arithmetic with built-in functions for Pi (π), Square (x²), and Square Root (√).  ---  
 
 🚀 Why This Calculator is Unique  In a world of standard, utilitarian calculators, this project stands out by prioritizing the user experience. 
