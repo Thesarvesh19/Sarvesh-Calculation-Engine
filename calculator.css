@@ -176,3 +176,5 @@ body[data-theme='light'] .moon-icon { opacity: 0; transform: rotate(-90deg); }
 .btn-operator { background-color: var(--operator-bg); color: white; }
 .btn-function { background-color: var(--function-bg); color: var(--function-text); }
 .btn-equals { background-color: var(--equals-bg); color: white; grid-column: span 2; }
+
+/* missed contribution update */
