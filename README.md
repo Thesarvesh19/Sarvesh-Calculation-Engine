@@ -290,3 +290,6 @@ Give the repository a ⭐ on GitHub.
 ## License
 
 This project is open-source and free to use.
+## Recent Update
+
+Minor maintenance and documentation improvements.
