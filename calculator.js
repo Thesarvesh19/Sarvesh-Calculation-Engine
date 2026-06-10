@@ -187,3 +187,6 @@ document.addEventListener('DOMContentLoaded', () => {
         else displayValue = '0';
     }
 });
+
+
+// Updated code
