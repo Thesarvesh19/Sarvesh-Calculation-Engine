@@ -303,4 +303,9 @@ This project is actively maintained and improved regularly.
 
 _Last updated: July 2026_
 
+## Changelog
+
+- Documentation refined for better readability.
+- Minor formatting improvements.
+
 Made with HTML, CSS and JavaScript.
