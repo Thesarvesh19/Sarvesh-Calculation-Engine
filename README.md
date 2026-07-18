@@ -1,11 +1,14 @@
 # 🧮 Sarvesh's Calculator
 
+### Responsive Calculator Project
+
 A modern and responsive calculator built using **HTML, CSS, and JavaScript** with support for **dark/light themes**, basic arithmetic operations, and extra mathematical functions.
 
 ---
 
 ## 📌 Features
 
+✔ Smooth and responsive button interactions
 ✔ Basic arithmetic operations
 
 - Addition (+)
@@ -293,3 +296,11 @@ This project is open-source and free to use.
 ## Recent Update
 
 Minor maintenance and documentation improvements.
+
+## Notes
+
+This project is actively maintained and improved regularly.
+
+_Last updated: July 2026_
+
+Made with HTML, CSS and JavaScript.
