@@ -190,3 +190,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // Updated code
+//updated code as of 29 sepetember 2026
